@@ -23,11 +23,8 @@ For inputs and textareas, no class is needed.
 
 Use the regular syntax for labels and inputs/textareas: 
 
-<label for="age">Age: </label>\
-<input type="text" name="age" required>
-
-`<label for="long-text">Age: </label>  
-<textarea name="long-text" id=""></textarea>`
+`<label for="age">Age: </label>  
+<input type="text" name="age" required>`
 
 ### Buttons:
 

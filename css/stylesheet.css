@@ -1,0 +1,58 @@
+body {
+    padding: 0 30px;
+}
+.square-container {
+    display: flex;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: bold;
+}
+
+.bg-primary {
+    background-color: var(--primary);
+    color: white;
+}
+
+.bg-dark-primary {
+    background-color: var(--dark-primary);
+    color: white;
+}
+
+.bg-secondary {
+    background-color: var(--secondary);
+}
+
+.bg-base {
+    background-color: var(--base);
+    color: white;
+}
+
+.bg-light {
+    background-color: var(--light);
+}
+
+.bg-white {
+    background-color: var(--white);
+}
+
+.bg-success {
+    background-color: var(--success);
+}
+
+.bg-error {
+    background-color: var(--error);
+}
+
+input, button {
+    margin-bottom: 30px;
+}
+

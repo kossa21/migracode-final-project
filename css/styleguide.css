@@ -108,7 +108,7 @@ button.small-button {
 }
 
 button.small-button:hover, button.small-button:focus {
-    filter: brightness(85%);
+    filter: brightness(90%);
 }
 
 button.big-button:hover, button.big-button:focus {
